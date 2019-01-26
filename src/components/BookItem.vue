@@ -14,7 +14,8 @@ export default {
 li{
     display: block;
     margin: 0 10px;
-    font-family: Roboto;
+    font-family: Arial;
+    font-style: italic;
 }
 
 </style>
