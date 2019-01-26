@@ -34,7 +34,7 @@ padding: 0;
 }
 li{
 display: block;
-margin: 0 40px;
+margin: 0 10px;
 font-family: Roboto;
 }
 </style>
